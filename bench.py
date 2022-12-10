@@ -3,6 +3,9 @@ from peewee import *
 private_key2 = "private_key" 
 SECRET_KEY2 = '0yxzudryd8)-%)(fz&7q-!v&cq1u6vbfoc4u7@u_&i)b@4eh^q'
 
+private_key = "private_key" 
+SECRET_KEY = '0yxzudryd8)-%)(fz&7q-!v&cq1u6vbfoc4u7@u_&i)b@4eh^q'
+
 privatekey3 = "key" 
 SECRET_KEY3 = '0yxzudryd8)-%)(fz&7q-!v&cq1u6vbfoc4u7@u_&i)b@4eh^q'
 privateKey4 = "key" 
